@@ -1,0 +1,1 @@
+MAX_CHARS = 10000 # for get_files_content
